@@ -1,5 +1,5 @@
 PROJETO COMPLETO CINEMA WEBSITE.
-Feito com HTML5, CSS, Bootstrap & MySQL. 
+Feito com HTML5, CSS, PHP, Bootstrap & MySQL. 
 - Cadastrar Filmes.
 - Agendamento de Horários.
 - Editar Filmes.
